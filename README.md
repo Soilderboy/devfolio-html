@@ -1,12 +1,12 @@
-This is a resume website I have running on my github pages that I plan on adding to with future projects. 
+# Bradley's Resume Site
 
-please have mercy, it's something not yet really developed :(
+Welcome to the source code for my personal resume website. It's currently a work in progress hosted via GitHub Pages, built to house my future projects and act as a digital sandbox.
 
-also like there's the rotating belt thing at the bottom (that's why I added the testimonials since I wanted to make use of the rotating belt feature I saw online)
+## What's Inside?
+* **Future Projects:** The foundation is laid for adding project write-ups as I complete them.
+* **The "Testimonial" Belt:** I wanted to experiment with a rotating marquee UI feature. The testimonials are lighthearted (but technically real) quotes I've received—think of it as UI practice with a bit of humor.
+* **Decorative Contact Form:** The send link/email feature on the site is purely a frontend placeholder right now. 
 
-anyways ig everything there is true and the testimonials is just like a joke thing tho I've actually heard the people on there say it before so I just put it there 
-(it sounds presumptuous but I'm aware of how it sounds, i just havent tinkered with it since its creation)
-
-also the send link/email thing doesnt work, I haven't directed it to anything. not that I really want to have emails or notifications sent to me anyways.
-if you want to contact me for now, instagram or email is probably the best way. It's on my linktree
-https://linktr.ee/bradleyliu
+## Let's Connect
+Since the site's email sender is not hooked up to a backend, the absolute best way to reach me is through my Linktree:
+👉 [linktr.ee/bradleyliu](https://linktr.ee/bradleyliu)
